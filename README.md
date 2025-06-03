@@ -1,0 +1,1 @@
+This code is intended to explore the Feynman dipole in Drude oscillators.
